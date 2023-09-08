@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;treeze_abu/Core/Inc/swv_write.c&apos;" deleteContents="false" description="Delete resource &apos;treeze_abu/Core/Inc/swv_write.c&apos;" element1="/treeze_abu/Core/Inc/swv_write.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1693287280902"/>
-</session>
